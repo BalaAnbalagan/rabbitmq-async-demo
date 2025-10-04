@@ -20,7 +20,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Assignment Reports (contains screenshots/personal info)
-ASSIGNMENT_REPORT.md
-*_REPORT.md
-*.report.md
+# Assignment PDFs
+*.pdf
+ASSIGNMENT_*.pdf

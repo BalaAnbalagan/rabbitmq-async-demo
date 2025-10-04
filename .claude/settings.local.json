@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del ASSIGNMENT_REPORT.md)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
